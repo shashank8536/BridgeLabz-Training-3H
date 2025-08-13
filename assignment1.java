@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// q1 Welcome to bridzelabz
 
 // public class assignment1 {
 //     public static void main(String[] args) {
@@ -6,7 +7,7 @@ import java.util.Scanner;
 //     } 
 // }
 
-// q2
+// q2 Add two numbers
 
 // public class assignment1 {
 //     public static void main(String[] args) {
@@ -23,7 +24,7 @@ import java.util.Scanner;
 //     }
 // }
 
-//3 
+//3  celcius to farenheit conversion
 
 // public class assignment1 {
 //     public static void main(String[] args) {
@@ -38,7 +39,7 @@ import java.util.Scanner;
 //     }
 // }
 
-//4
+//4 area of circle
 
 // public class assignment1 {
 //     public static void main(String[] args) {
@@ -53,7 +54,7 @@ import java.util.Scanner;
 //     }
 // }
 
-//5
+//5 volume of cylinder
 
 // public class assignment1 {
 //     public static void main(String[] args) {
@@ -70,7 +71,7 @@ import java.util.Scanner;
 //     }
 // }
 
-// 6
+// 6 calculate simple interest
 
 // public class assignment1 {
 //     public static void main(String[] args) {
@@ -89,7 +90,7 @@ import java.util.Scanner;
 //     }
 // }
 
-// 7
+// 7 perimeter of recatngle
 
 // public class assignment1 {
 //     public static void main(String[] args) {
@@ -106,7 +107,7 @@ import java.util.Scanner;
 //     }
 // }
 
-// 8
+// 8 power calculation
 
 
 // public class assignment1 {
@@ -125,7 +126,7 @@ import java.util.Scanner;
 // }
 
 
-//9
+//9 calculate average of three number
 
 // public class assignment1{
 //     public static void main(String[] args) {
@@ -144,7 +145,7 @@ import java.util.Scanner;
 //     }
 // }
 
-//10
+//10 convert km to miles
 
 // public class assignment1 {
 //     public static void main(String[] args) {
