@@ -1,4 +1,4 @@
-package StringProblems.StringLevelTwo;
+package  StringProblems.StringLevelTwo;
 
 import java.util.Scanner;
 
